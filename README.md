@@ -7,6 +7,9 @@
 ## What's changed
 - `ACP.xml`: layout fix for the Frostmourne Rebuffed 3.3.5a client
 
+## Screenshot
+![World of Warcraft options menu with ACP](screenshots/options-menu.png)
+
 ## Installation
 Copy the `ACP` folder into `World of Warcraft/Interface/AddOns/`, then `/reload`.
 
