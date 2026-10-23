@@ -5,7 +5,7 @@
 **This is not my addon.** Addon Control Panel (ACP) by **sylvanaar**, based on rMCP by **Rophy**, originally MCP by **Saien** – original project: https://www.curseforge.com/wow/addons/acp
 
 ## What's changed
-- `ACP.xml`: layout fix for the Frostmourne Rebuffed 3.3.5a client
+- `ACP.xml`: layout fix for the Whitemane-Frostmourne Rebuffed 3.3.5a client
 
 ## Screenshot
 ![World of Warcraft options menu with ACP](screenshots/options-menu.png)
