@@ -12,6 +12,7 @@
 
 ## Installation
 Copy the `ACP` folder into `World of Warcraft/Interface/AddOns/`, then `/reload`.
+With *Code → Download ZIP* it sits inside `ACP-Whitemane-Fix-main` – copy only the inner `ACP` folder.
 
 ## License
 The original addon ships without a license file; all rights remain with the original authors. If you are an author and want this removed, please open an issue and it will be taken down.
